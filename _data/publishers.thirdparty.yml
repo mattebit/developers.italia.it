@@ -188,3 +188,7 @@
 - name: "Accert"
   repos:
     - "https://github.com/andrea1388/Accert"
+
+- name: "Micro-Id-Gym"
+  repos:
+    - "https://github.com/stfbk/mig"
